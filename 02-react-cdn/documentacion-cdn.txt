@@ -1,0 +1,7 @@
+link para los scrips  y link de forma CDN para la importacion de React
+
+https://es.reactjs.org/docs/cdn-links.html  <------------ link  de la libreria en CDN
+
+link para los scrips y aplicarlo de babel en el archivo
+ 
+https://babeljs.io/setup#installation   <--------------- link de la libreria en CND
