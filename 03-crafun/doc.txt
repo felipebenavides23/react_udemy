@@ -1,0 +1,8 @@
+
+primero se debe instalar yarn de forma global
+
+npm i -g yarn
+
+para crear un proyecto react app  tiene que estar en la raiz de las carpetas y se utiliza el comando 
+
+npx create-react-app *nombre del proyecto"  <===== no utilizar nunca mayusculas al crear el proyecto

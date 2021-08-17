@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,0DAAI;AACZ,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "bootstrap.scss"
+    ],
+    "names": [],
+    "file": "bootstrap.css"
+}
