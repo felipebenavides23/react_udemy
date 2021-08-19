@@ -1,6 +1,4 @@
 {
-  "short_name": "Calculadora",
-  "name": "Calculadora React - PWA",
   "icons": [
     {
       "src": "windows10/SmallTile.scale-100.png",
@@ -402,9 +400,5 @@
       "src": "firefox/firefox-general-16-16.png",
       "sizes": "16x16"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#dcd31c"
+  ]
 }
